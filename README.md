@@ -27,8 +27,8 @@ and its createGlobalStyle and <b>Typescript</b>.
 ### 🖼️ ScreenShots:
 
 <div class="flex-container">
- <img src="/images/Screenshot_1.jpg" width="450px;" alt="Dark"/>
- <img src="/images/Screenshot_2.jpg" width="450px;" alt="Light"/>
+ <img src="/images/Screenshot_1.jpg" width="900px;" alt="Dark"/>
+ <img src="/images/Screenshot_2.jpg" width="900px;" alt="Light"/>
 </div>
 
 ---
