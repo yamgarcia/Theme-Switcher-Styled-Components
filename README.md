@@ -1,44 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">
+<br>
+ <b>Small Theme-Switcher app using Styled-Components and personalized React Hooks</b>
+</h4>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+</p>
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+### 🔬 Used Technologies
 
-### `npm start`
+The following project was made using:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://nodejs.org/en/)
+- [Styled-Components](https://www.npmjs.com/package/nodemon)
+- [Typescript](https://www.mongodb.com/)
+- [Polished](https://www.npmjs.com/package/polished)
+- [React-Switch](https://www.npmjs.com/package/react-switch)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### :muscle: Project
 
-### `npm test`
+This small app was built to change the theme and keep it on the <b>local storage</b>
+through a personalized React Hook. The themes are made using <b>Styled-Components</b>
+and its createGlobalStyle and <b>Typescript</b>.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🖼️ ScreenShots:
 
-### `npm run build`
+<div class="flex-container">
+ <img src="/images/Screenshot_1.jpg" width="450px;" alt="Dark"/>
+ <img src="/images/Screenshot_2.jpg" width="450px;" alt="Light"/>
+</div>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`
+- Commit your changes: `git commit -m 'feat: My new feature'`
+- Push your branch: `git push origin my-feature`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### :memo: License
 
-### `npm run eject`
+This project is under the MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="center">Made with love ❤️ by <b><a src="https://github.com/yamgarcia">Marcos Garcia</a></b></p>
