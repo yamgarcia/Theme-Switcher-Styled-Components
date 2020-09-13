@@ -8,13 +8,13 @@
 
 <br>
 
-### 🔬 Used Technologies
+### 💅🏾 Used Technologies
 
 The following project was made using:
 
-- [React](https://nodejs.org/en/)
-- [Styled-Components](https://www.npmjs.com/package/nodemon)
-- [Typescript](https://www.mongodb.com/)
+- [Styled-Components](https://styled-components.com/)
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Polished](https://www.npmjs.com/package/polished)
 - [React-Switch](https://www.npmjs.com/package/react-switch)
 
